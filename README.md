@@ -1,7 +1,3 @@
 # TugasJarkom
-
-TUTORIALLLLLLl
-https://youtu.be/crqnkGpIhOM
-https://youtu.be/crqnkGpIhOM
-https://youtu.be/crqnkGpIhOM
-https://youtu.be/crqnkGpIhOM
+Berikut video mengenai output dari program yang saya coba.
+https://drive.google.com/file/d/15a8SQZBfuaAP_lU6CbQHGFRpAFSlmpxf/view?usp=sharing
