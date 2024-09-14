@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj",
+        "projectName": "BasicAsyncClient",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj",
+        "projectName": "BasicAsyncServer",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj"
+              },
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj",
+        "projectName": "MovingObjectServer",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj",
+        "projectName": "MovingObjectServer",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj",
+        "projectName": "MovingObject",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
+        "projectName": "Tugas2",
+        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
+        "packagesPath": "C:\\Users\\FIDA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj"
+              },
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj"
+              },
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj"
+              },
+              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj": {
+                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

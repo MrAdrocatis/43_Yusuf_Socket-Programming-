@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tugas2/1.0.0": {
+        "dependencies": {
+          "MovingObject": "1.0.0"
+        },
+        "runtime": {
+          "Tugas2.dll": {}
+        }
+      },
+      "MovingObject/1.0.0": {
+        "runtime": {
+          "MovingObject.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovingObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

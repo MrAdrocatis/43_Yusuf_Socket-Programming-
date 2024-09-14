@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "BasicAsyncClient/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "MovingObjectServer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BasicAsyncClient.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicAsyncClient.dll": {}
+        }
+      },
+      "BasicAsyncServer/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "BasicAsyncClient": "1.0.0",
+          "MovingObjectServer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BasicAsyncServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicAsyncServer.dll": {}
+        }
+      },
+      "MovingObject/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MovingObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovingObject.dll": {}
+        }
+      },
+      "MovingObjectServer/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MovingObjectServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovingObjectServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicAsyncClient/1.0.0": {
+      "type": "project",
+      "path": "../BasicAsyncClient/BasicAsyncClient.csproj",
+      "msbuildProject": "../BasicAsyncClient/BasicAsyncClient.csproj"
+    },
+    "BasicAsyncServer/1.0.0": {
+      "type": "project",
+      "path": "../BasicAsyncServer/BasicAsyncServer.csproj",
+      "msbuildProject": "../BasicAsyncServer/BasicAsyncServer.csproj"
+    },
+    "MovingObject/1.0.0": {
+      "type": "project",
+      "path": "../MovingObject/MovingObject.csproj",
+      "msbuildProject": "../MovingObject/MovingObject.csproj"
+    },
+    "MovingObjectServer/1.0.0": {
+      "type": "project",
+      "path": "../MovingObjectServer/MovingObjectServer.csproj",
+      "msbuildProject": "../MovingObjectServer/MovingObjectServer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "BasicAsyncClient >= 1.0.0",
+      "BasicAsyncServer >= 1.0.0",
+      "MovingObject >= 1.0.0",
+      "MovingObjectServer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\FIDA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
+      "projectName": "Tugas2",
+      "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
+      "packagesPath": "C:\\Users\\FIDA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\FIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+              "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj"
+            },
+            "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj": {
+              "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj"
+            },
+            "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj": {
+              "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj"
+            },
+            "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj": {
+              "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
