@@ -17,3 +17,6 @@ C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\Tugas2\bin\Debug\net6.0-windo
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\Tugas2\bin\Debug\net6.0-windows\MovingObject.pdb
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\Tugas2\bin\Debug\net6.0-windows\MovingObject.exe.config
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\Tugas2\obj\Debug\net6.0-windows\Tugas2.csproj.CopyComplete
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Tugas2\obj\Debug\net6.0-windows\Tugas2.dll
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Tugas2\obj\Debug\net6.0-windows\refint\Tugas2.dll
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Tugas2\obj\Debug\net6.0-windows\Tugas2.pdb

@@ -1,21 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj": {}
+    "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\Tugas2\\Tugas2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+    "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj",
+        "projectUniqueName": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj",
         "projectName": "BasicAsyncClient",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj",
+        "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj",
         "frameworks": {
           "net48": {
-            "projectReferences": {
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         }
       },
@@ -23,19 +19,16 @@
         "net48": {}
       }
     },
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj": {
+    "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncServer\\BasicAsyncServer.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj",
+        "projectUniqueName": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncServer\\BasicAsyncServer.csproj",
         "projectName": "BasicAsyncServer",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj",
+        "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncServer\\BasicAsyncServer.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj"
-              },
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj"
+              "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+                "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj"
               }
             }
           }
@@ -45,62 +38,21 @@
         "net48": {}
       }
     },
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj",
-        "projectName": "MovingObjectServer",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj",
-        "projectName": "MovingObjectServer",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectServer\\MovingObjectServer.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj",
-        "projectName": "MovingObject",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj": {
+    "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\Tugas2\\Tugas2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
+        "projectUniqueName": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\Tugas2\\Tugas2.csproj",
         "projectName": "Tugas2",
-        "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\Tugas2.csproj",
-        "packagesPath": "C:\\Users\\FIDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\Tugas2\\obj\\",
+        "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\Tugas2\\Tugas2.csproj",
+        "packagesPath": "C:\\Users\\Pongo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\Tugas2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\FIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pongo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,17 +66,17 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncClient\\BasicAsyncClient.csproj"
+              "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj": {
+                "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncClient\\BasicAsyncClient.csproj"
               },
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\BasicAsyncServer\\BasicAsyncServer.csproj"
+              "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncServer\\BasicAsyncServer.csproj": {
+                "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\BasicAsyncServer\\BasicAsyncServer.csproj"
               },
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObjectClient\\MovingObjectServer.csproj"
+              "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\MovingObjectClient\\MovingObjectServer.csproj": {
+                "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\MovingObjectClient\\MovingObjectServer.csproj"
               },
-              "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj": {
-                "projectPath": "C:\\Users\\FIDA\\Documents\\Jaringan Semester 5\\Tugas2\\MovingObject\\MovingObject.csproj"
+              "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\MovingObject\\MovingObject.csproj": {
+                "projectPath": "C:\\Users\\Pongo\\Documents\\GitHub\\43_Yusuf_Socket-Programming-\\MovingObject\\MovingObject.csproj"
               }
             }
           }
@@ -133,6 +85,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -157,7 +114,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

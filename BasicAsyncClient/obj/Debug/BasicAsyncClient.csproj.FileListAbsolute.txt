@@ -13,3 +13,17 @@ C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncClient\bin\Debug\Mo
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncClient\bin\Debug\MovingObjectClient.pdb
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncClient\bin\Debug\MovingObjectClient.exe.config
 C:\Users\FIDA\Documents\Jaringan Semester 5\Tugas2\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.CopyComplete
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\BasicAsyncClient.exe.config
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\BasicAsyncClient.exe
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\BasicAsyncClient.pdb
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\MovingObjectClient.exe
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\MovingObjectClient.pdb
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\bin\Debug\MovingObjectClient.exe.config
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.AssemblyReference.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.ClientForm.resources
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.Properties.Resources.resources
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.GenerateResource.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsy.473543F2.Up2Date
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.exe
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\BasicAsyncClient\obj\Debug\BasicAsyncClient.pdb
