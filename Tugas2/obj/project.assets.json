@@ -4,6 +4,9 @@
     "net6.0-windows7.0": {
       "BasicAsyncClient/1.0.0": {
         "type": "project",
+        "dependencies": {
+          "MovingObjectServer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BasicAsyncClient.dll": {}
         },
@@ -14,13 +17,23 @@
       "BasicAsyncServer/1.0.0": {
         "type": "project",
         "dependencies": {
-          "BasicAsyncClient": "1.0.0"
+          "BasicAsyncClient": "1.0.0",
+          "MovingObjectServer": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BasicAsyncServer.dll": {}
         },
         "runtime": {
           "bin/placeholder/BasicAsyncServer.dll": {}
+        }
+      },
+      "MovingObjectServer/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MovingObjectServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovingObjectServer.dll": {}
         }
       }
     }
@@ -35,6 +48,11 @@
       "type": "project",
       "path": "../BasicAsyncServer/BasicAsyncServer.csproj",
       "msbuildProject": "../BasicAsyncServer/BasicAsyncServer.csproj"
+    },
+    "MovingObjectServer/1.0.0": {
+      "type": "project",
+      "path": "../MovingObjectServer/MovingObjectServer.csproj",
+      "msbuildProject": "../MovingObjectServer/MovingObjectServer.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -125,7 +143,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   },

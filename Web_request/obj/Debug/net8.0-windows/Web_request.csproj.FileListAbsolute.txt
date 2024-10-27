@@ -1,0 +1,8 @@
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.csproj.AssemblyReference.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.Form1.resources
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.csproj.GenerateResource.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.AssemblyInfoInputs.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.AssemblyInfo.cs
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\Documents\GitHub\43_Yusuf_Socket-Programming-\Web_request\obj\Debug\net8.0-windows\Web_request.sourcelink.json

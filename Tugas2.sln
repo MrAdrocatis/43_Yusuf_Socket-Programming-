@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectServer", "Movin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingObjectClient", "MovingObjectClient\MovingObjectClient.csproj", "{841A7E7A-C4C8-40A0-9196-C3D3BAC95657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_request", "Web_request\Web_request.csproj", "{0903A1E2-0EF9-4CE5-B2E7-657F03D8F745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{841A7E7A-C4C8-40A0-9196-C3D3BAC95657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{841A7E7A-C4C8-40A0-9196-C3D3BAC95657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{841A7E7A-C4C8-40A0-9196-C3D3BAC95657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0903A1E2-0EF9-4CE5-B2E7-657F03D8F745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0903A1E2-0EF9-4CE5-B2E7-657F03D8F745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0903A1E2-0EF9-4CE5-B2E7-657F03D8F745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0903A1E2-0EF9-4CE5-B2E7-657F03D8F745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
